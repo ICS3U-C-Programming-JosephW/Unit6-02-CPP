@@ -4,7 +4,7 @@
 // Date: May 22, 2025
 /* This program generates and displays
 ten random numbers from 0 to 100 with
-arrays and then displays their average. */
+arrays and then displays the maximum number. */
 
 /* Include the time header to access
 time functions. */
